@@ -1,0 +1,8 @@
+Features
+
+1. Broadcast
+2. Unicast
+3. session handling
+4. Effecient client management
+5. File Upload / Download (In process) 
+6. Multiple OS support
